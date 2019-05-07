@@ -6,11 +6,42 @@ h1  {
   font-weight: bold;
 }
 
+h4 {
+  font-size: 30px;
+  font-style: italic;
+}
+
 img {
-  float: left;
+  /* float: left; */
+  display: inline-block;
+  width: 325px;
 }
 
 ul {
   color: blue;
+  display: inline-block;
+  font-size: 25px;
+  /* float: left; */
 
+}
+
+.buddy {
+  color: Orange;
+}
+
+.header {
+  background-color: #ccdfff
+}
+
+.profile-box {
+  border: 1px solid black;
+  background-color: #c6e5b9
+}
+
+.chloe {
+  color: red;
+}
+
+.teddy {
+  color: grey;
 }
