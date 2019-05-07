@@ -45,3 +45,15 @@ ul {
 .teddy {
   color: grey;
 }
+
+@media screen and (max-width: 1000px) and (min-width: 700px) {
+  body {
+    font-family: cursive;
+  }
+}
+
+@media screen and (max-width: 480px) and (min-width: 300px) {
+  .header {
+    background-color: Pink;
+  }
+}
